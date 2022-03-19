@@ -1,2 +1,2 @@
-# Imagination or recollection? Discovering differences in cognitive experience through data science
+# Imagination or Recollection? Discovering Differences in Cognitive Experience through Data Science
 
